@@ -68,7 +68,7 @@ def get_courses(): #GET ALL
 
 @app.route('/')
 def main():
-    return "Hello"
+    return "Hello World!"
 
 
 
